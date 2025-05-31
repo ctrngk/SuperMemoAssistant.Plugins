@@ -87,9 +87,14 @@
         
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="SuperMemoAssistant.Services.Sentry" Version="1.0.1.14" />
         <PackageReference Include="Sentry.Serilog" Version="2.1.6" />
         <PackageReference Include="System.Collections.Immutable" Version="1.5.0" />
+    </ItemGroup>
+    <ItemGroup>
+        <!--
+            <PackageReference Include="SuperMemoAssistant.Services.Sentry" Version="1.0.1.14" />
+        -->
+        <ProjectReference Include="..\..\..\SuperMemoAssistant.Services.Sentry\SuperMemoAssistant.Services.Sentry.csproj" />
     </ItemGroup>
 
     <ItemGroup>

@@ -20,7 +20,16 @@ superMemoAssistant.Plugins.Import/libs/SuperMemoAssistant.Plugins.Import.Browser
 superMemoAssistant.Plugins.Import/libs/SuperMemoAssistant.Plugins.Import.BrowserNativeHost/obj/
 
 
+
 superMemoAssistant.Plugins.Import/libs/SuperMemoAssistant.Plugins.Import.Interop/bin/
 superMemoAssistant.Plugins.Import/libs/SuperMemoAssistant.Plugins.Import.Interop/obj/
 
+
+
+SuperMemoAssistant.Services.Sentry/bin/
+SuperMemoAssistant.Services.Sentry/obj/
+
+
+SuperMemoAssistant.Services.UI/bin/
+SuperMemoAssistant.Services.UI/obj/
 

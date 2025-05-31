@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Interop"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Services.HTML", "SuperMemoAssistant.Services.HTML\SuperMemoAssistant.Services.HTML.csproj", "{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Services.Sentry", "SuperMemoAssistant.Services.Sentry\SuperMemoAssistant.Services.Sentry.csproj", "{660E5FE4-67BB-4DF6-93A5-A4E5E93FC31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Services.UI", "SuperMemoAssistant.Services.UI\SuperMemoAssistant.Services.UI.csproj", "{C2DE9057-3B93-44E2-A03C-F418CF2CCE4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,11 @@ Global
 		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Debug|Any CPU.Build.0 = Debug|x86
 		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Release|Any CPU.ActiveCfg = Release|x86
 		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Release|Any CPU.Build.0 = Release|x86
+		{660E5FE4-67BB-4DF6-93A5-A4E5E93FC31A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{660E5FE4-67BB-4DF6-93A5-A4E5E93FC31A}.Debug|Any CPU.Build.0 = Debug|x86
+		{660E5FE4-67BB-4DF6-93A5-A4E5E93FC31A}.Release|Any CPU.ActiveCfg = Release|x86
+		{660E5FE4-67BB-4DF6-93A5-A4E5E93FC31A}.Release|Any CPU.Build.0 = Release|x86
+		{C2DE9057-3B93-44E2-A03C-F418CF2CCE4D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C2DE9057-3B93-44E2-A03C-F418CF2CCE4D}.Debug|Any CPU.Build.0 = Debug|x86
 	EndGlobalSection
 EndGlobal
