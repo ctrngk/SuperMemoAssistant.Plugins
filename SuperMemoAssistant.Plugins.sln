@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Plugins.Import.BrowserNativeHost", "SuperMemoAssistant.Plugins.Import\libs\SuperMemoAssistant.Plugins.Import.BrowserNativeHost\SuperMemoAssistant.Plugins.Import.BrowserNativeHost.csproj", "{19A228F1-C635-4429-A266-9E0D76BB4B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Plugins.Import.Interop", "SuperMemoAssistant.Plugins.Import\libs\SuperMemoAssistant.Plugins.Import.Interop\SuperMemoAssistant.Plugins.Import.Interop.csproj", "{B350C6FF-D2B1-48E9-BFCB-7DF04CAAF68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Plugins.Import", "SuperMemoAssistant.Plugins.Import\src\SuperMemoAssistant.Plugins.Import\SuperMemoAssistant.Plugins.Import.csproj", "{E32945A2-E2BB-45DE-9551-275D80CD2871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Interop", "SuperMemoAssistant.Interop\SuperMemoAssistant.Interop.csproj", "{9E1E449F-12E5-4A0B-82BF-E9B1729DDC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMemoAssistant.Services.HTML", "SuperMemoAssistant.Services.HTML\SuperMemoAssistant.Services.HTML.csproj", "{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A228F1-C635-4429-A266-9E0D76BB4B89}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{19A228F1-C635-4429-A266-9E0D76BB4B89}.Debug|Any CPU.Build.0 = Debug|x86
+		{19A228F1-C635-4429-A266-9E0D76BB4B89}.Release|Any CPU.ActiveCfg = Release|x86
+		{19A228F1-C635-4429-A266-9E0D76BB4B89}.Release|Any CPU.Build.0 = Release|x86
+		{B350C6FF-D2B1-48E9-BFCB-7DF04CAAF68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B350C6FF-D2B1-48E9-BFCB-7DF04CAAF68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B350C6FF-D2B1-48E9-BFCB-7DF04CAAF68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B350C6FF-D2B1-48E9-BFCB-7DF04CAAF68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32945A2-E2BB-45DE-9551-275D80CD2871}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E32945A2-E2BB-45DE-9551-275D80CD2871}.Debug|Any CPU.Build.0 = Debug|x86
+		{E32945A2-E2BB-45DE-9551-275D80CD2871}.Release|Any CPU.ActiveCfg = Release|x86
+		{E32945A2-E2BB-45DE-9551-275D80CD2871}.Release|Any CPU.Build.0 = Release|x86
+		{9E1E449F-12E5-4A0B-82BF-E9B1729DDC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1E449F-12E5-4A0B-82BF-E9B1729DDC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1E449F-12E5-4A0B-82BF-E9B1729DDC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1E449F-12E5-4A0B-82BF-E9B1729DDC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Debug|Any CPU.Build.0 = Debug|x86
+		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Release|Any CPU.ActiveCfg = Release|x86
+		{DC653E94-3DAA-4E76-A0AA-1DE0748E417B}.Release|Any CPU.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
